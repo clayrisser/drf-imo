@@ -1,4 +1,4 @@
-# Realtytopia Back-end
+# drf-imo
 
 ## Setup
 ```
