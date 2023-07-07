@@ -1,4 +1,5 @@
 # drf-imo
+![](assets/drf-imo.png)
 
 ## Setup
 ```
